@@ -1,11 +1,17 @@
-html{
-    background-color: violet;
+html {
+    background-color: blue;
 }
+
 body {
     background-color: antiquewhite;
 }
-head{
+
+head {
     background-color: aqua;
+}
+
+h2 {
+    background-color: blueviolet
 }
 h1{
     background-color: brown;
